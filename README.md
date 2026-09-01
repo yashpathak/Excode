@@ -32,7 +32,7 @@ This project is in early development. Core architecture and local execution engi
 - [ ] Snippet management
 - [ ] Export / share functionality
 - [ ] Optional AI integration layer
-- [ ] Desktop app (Tauri / Electron)
+- [ ] Desktop app (Tauri)
 
 ## Contributing
 
@@ -40,4 +40,4 @@ Contributions, ideas, and feedback are welcome. Feel free to open issues or PRs.
 
 ## License
 
-MIT# Excode
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
